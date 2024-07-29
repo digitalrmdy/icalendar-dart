@@ -1,3 +1,5 @@
+FORK FROM: https://gitlab.com/powerbuilding/opensource/mobile/support-libraries/icalendar-dart
+
 # ICalendar Plugin
 
 Serializes and Deserializes ICalendar text. Offers 99+% coverage of the ICalendar RFC.
